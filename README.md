@@ -4,9 +4,9 @@
 
 ##  Contents
 
-- [Installation](#Install)
+- [Installation](#installation)
 
-- [Hello world!](#Hello-world)
+- [Hello world!](#hello-world)
 
 ## Installation
 
@@ -40,3 +40,5 @@ Besides, you want to install only dart or nodejs. Having option help you do that
 ```
 
 ## Hello world
+
+Now, we write a legendary application. That's Hello world [Go](start/README.md)
