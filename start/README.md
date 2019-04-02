@@ -23,9 +23,7 @@ You receive: **Hello world!**
 
 Code example:
 
-```dart
-main() => print("Hello world!");
-```
+![](https://i.ibb.co/Xy096xH/dart-main.png)
 
 **main()** is where the application starts executing. The special, *required*, top-level function where application execution starts
 
@@ -35,9 +33,7 @@ main() => print("Hello world!");
 
 Code example:
 
-```javascript
-console.log("Hello world!");
-```
+![](https://i.ibb.co/LgDM4C7/dart-main-1.png)
 
 You can print the same string, except this time to the JavaScript console. Like **print()** in dart, using "..." or '... ' are accepted. 
 
